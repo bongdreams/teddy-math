@@ -1,16 +1,16 @@
 {
-  "name": "teddy-math",
-  "version": "0.0.1-beta",
-  "description": "An opinionated math library for nodejs",
-  "main": "app.js",
-  "scripts": {
-    "test": "npm test"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/bongdreams/teddy-math.git"
-  },
-  "keywords": [
+	"name": "teddy-math",
+	"version": "0.0.1-beta",
+	"description": "An opinionated math library for nodejs",
+	"main": "app.js",
+	"scripts": {
+		"test": "npm test"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/bongdreams/teddy-math.git"
+	},
+	"keywords": [
     "math",
     "nodejs",
     "mathematics",
@@ -19,12 +19,13 @@
     "calculus",
     "trigonometry",
     "logarithms",
-    "exponents"
+    "exponents",
+	"my_wife_is_as_cute_as_a_teddy"
   ],
-  "author": "Saikat Banerjee",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/bongdreams/teddy-math/issues"
-  },
-  "homepage": "https://github.com/bongdreams/teddy-math#readme"
+	"author": "Saikat Banerjee",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/bongdreams/teddy-math/issues"
+	},
+	"homepage": "https://github.com/bongdreams/teddy-math#readme"
 }
