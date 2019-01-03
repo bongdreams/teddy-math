@@ -1,0 +1,30 @@
+{
+  "name": "teddy-math",
+  "version": "0.0.1-beta",
+  "description": "An opinionated math library for nodejs",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bongdreams/teddy-math.git"
+  },
+  "keywords": [
+    "math",
+    "nodejs",
+    "mathematics",
+    "algebra",
+    "arithmatic",
+    "calculus",
+    "trigonometry",
+    "logarithms",
+    "exponents"
+  ],
+  "author": "Saikat Banerjee",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bongdreams/teddy-math/issues"
+  },
+  "homepage": "https://github.com/bongdreams/teddy-math#readme"
+}
