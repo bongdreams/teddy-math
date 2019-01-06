@@ -2,6 +2,8 @@
 
 'use strict';
 
-var aggregator = require('./aggregator');
+var aggregator = {
+
+};
 
 module.exports = aggregator;
